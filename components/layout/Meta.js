@@ -88,6 +88,10 @@ export default function Meta() {
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
       <meta name="theme-color" content="#ffffff" />
+      <meta
+        name="facebook-domain-verification"
+        content="tax2vv3p8d7u9iki8u6nyfqxnygbds"
+      />
     </Head>
   );
 }
